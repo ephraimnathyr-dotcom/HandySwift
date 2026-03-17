@@ -123,7 +123,7 @@ export function ProviderDashboard() {
         <Navbar />
         
         {/* Hero Section */}
-        <section className="bg-gradient-to-br from-primary via-primary/90 to-primary/80 pt-24 pb-12">
+        <section className="pt-24 pb-12" style={{background: 'linear-gradient(135deg, #1f4e79, #2a6099, #1a4268)'}}>
           <div className="container mx-auto px-4">
             <div className="max-w-4xl">
               <div className="inline-block px-4 py-1.5 bg-secondary/20 rounded-full mb-4">
