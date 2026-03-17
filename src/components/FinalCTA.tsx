@@ -46,7 +46,7 @@ export function FinalCTA() {
             </Button>
             
             <Button 
-              className="group bg-secondary text-slate-900 hover:bg-secondary/90 px-8 py-6 rounded-xl shadow-2xl hover:shadow-secondary/30 transition-all duration-300 transform hover:scale-105"
+              className="group px-8 py-6 rounded-xl shadow-2xl transition-all duration-300 transform hover:scale-105" style={{backgroundColor: '#4ade80', color: '#0f172a'}}
               onClick={() => navigate('/provider-signup')}
             >
               <Briefcase className="w-5 h-5 mr-2" />
