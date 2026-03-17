@@ -1,3 +1,21 @@
+@theme {
+  --color-primary: #1f4e79;
+  --color-primary-foreground: #ffffff;
+  --color-secondary: #4ade80;
+  --color-secondary-foreground: #ffffff;
+  --color-background: #ffffff;
+  --color-foreground: #1a202c;
+  --color-muted: #f8fafc;
+  --color-muted-foreground: #64748b;
+  --color-accent: #f1f5f9;
+  --color-accent-foreground: #0f172a;
+  --color-destructive: #dc2626;
+  --color-border: rgba(0, 0, 0, 0.1);
+  --color-ring: #3b82f6;
+  --color-card: #ffffff;
+  --color-card-foreground: #1a202c;
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
 :root {
